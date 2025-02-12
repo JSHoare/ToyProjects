@@ -4,8 +4,11 @@ A repository of toy software tools developed for personal projects, challenges, 
 
 <h2>Table of Contents</h2>
 <ul>
-<li> <b>wings_for_life_run.R</b> </li>
-Replication of the back end code for the <a href="https://www.wingsforlifeworldrun.com/en/goal-calculator">Wings of Life</a> goal calculator.
+  <li><b>tile_percentage.R</b></li>
+  Visual simulation of coloured vs white tile density for the bathroom.
+  
+  <li> <b>wings_for_life_run.R</b> </li>
+  Replication of the back end code for the <a href="https://www.wingsforlifeworldrun.com/en/goal-calculator">Wings of Life</a> goal calculator.
 
   
 </ul>
