@@ -6,6 +6,9 @@ A repository of toy software tools developed for personal projects, challenges, 
 <ul>
   <li> <b>BMI_imputation_test.R</b> </li>
   A quick and dirty script to demonstrate how blanket use of multiple imputation leads to poor outcomes, even if summary statistics appear good.
+
+  <li> <b>mines_sim.R</b> </li>
+  Simulation of many instances of a tile-based gambling game with variable set-up parameters.
   
   <li><b>tile_percentage.R</b></li>
   Visual simulation of coloured vs white tile density for the bathroom.
